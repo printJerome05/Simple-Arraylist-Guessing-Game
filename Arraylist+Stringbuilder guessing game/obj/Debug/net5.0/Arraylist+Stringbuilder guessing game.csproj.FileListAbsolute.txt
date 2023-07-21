@@ -1,0 +1,16 @@
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\bin\Debug\net5.0\Arraylist+Stringbuilder guessing game.exe
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\bin\Debug\net5.0\Arraylist+Stringbuilder guessing game.deps.json
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\bin\Debug\net5.0\Arraylist+Stringbuilder guessing game.runtimeconfig.json
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\bin\Debug\net5.0\Arraylist+Stringbuilder guessing game.runtimeconfig.dev.json
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\bin\Debug\net5.0\Arraylist+Stringbuilder guessing game.dll
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\bin\Debug\net5.0\ref\Arraylist+Stringbuilder guessing game.dll
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\bin\Debug\net5.0\Arraylist+Stringbuilder guessing game.pdb
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\obj\Debug\net5.0\Arraylist+Stringbuilder guessing game.csproj.AssemblyReference.cache
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\obj\Debug\net5.0\Arraylist+Stringbuilder guessing game.GeneratedMSBuildEditorConfig.editorconfig
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\obj\Debug\net5.0\Arraylist+Stringbuilder guessing game.AssemblyInfoInputs.cache
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\obj\Debug\net5.0\Arraylist+Stringbuilder guessing game.AssemblyInfo.cs
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\obj\Debug\net5.0\Arraylist+Stringbuilder guessing game.csproj.CoreCompileInputs.cache
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\obj\Debug\net5.0\Arraylist+Stringbuilder guessing game.dll
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\obj\Debug\net5.0\ref\Arraylist+Stringbuilder guessing game.dll
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\obj\Debug\net5.0\Arraylist+Stringbuilder guessing game.pdb
+D:\solutions visual studio\Arraylist+Stringbuilder guessing game\Arraylist+Stringbuilder guessing game\obj\Debug\net5.0\Arraylist+Stringbuilder guessing game.genruntimeconfig.cache
